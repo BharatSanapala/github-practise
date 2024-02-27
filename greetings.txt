@@ -1,6 +1,0 @@
-telugu
-japanese
-hindi
-tamil
-kannada
-english
