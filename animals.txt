@@ -2,5 +2,7 @@ zebra
 lion
 peacock 
 rabbit
-mamoth 
-hippo
+dragon 
+dog
+cat 
+rat
