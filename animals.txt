@@ -2,4 +2,7 @@ zebra
 lion
 peacock 
 rabbit
-
+dragon 
+dog
+cat 
+rat
